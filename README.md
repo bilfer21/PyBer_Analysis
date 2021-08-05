@@ -11,6 +11,8 @@ The results indicate that the majority of PyBer fare revenue comes from rides as
 
 Chart of Weekly Revenue by City Type
 
+https://github.com/bilfer21/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png
+
 when looking at total revenue over the January 1 - April 29 period, fares from urban cities represented 63% of total revenue, while revenue from suburban cities and rural cities represented 30% and 7% of total revenue, respectively.
 
 A deeper look into the data reveals that urban cities have many more drivers than the suburban and rural cities. The data shows 2,405 drivers in urban citites, while suburban cities have 490 drivers and rural cities have 78 drivers. Fares per ride also differ across the city types, with urban fares averaging $24.53 per ride, suburban fares averaging $30.97 per ride, and rural fares averaging $34.62 per ride. This difference in average fare per ride could be explained by the shorter distances typically covered in suburban cities versus suburban and rural cities.
